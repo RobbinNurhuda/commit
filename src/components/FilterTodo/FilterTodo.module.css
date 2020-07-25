@@ -1,0 +1,10 @@
+button {
+    margin: 4px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.active {
+    background-color: #666;
+}
